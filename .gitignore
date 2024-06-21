@@ -1,0 +1,13 @@
+bin/
+obj/
+*.suo
+*.user
+*.vscode
+*.vssscc
+*.vspscc
+.vs/
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
